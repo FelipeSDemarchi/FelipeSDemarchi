@@ -1,6 +1,6 @@
 # Olá 👋, Sou o Felipe Demarchi
 
-🚀 **Estudante de Engenharia de Software | JavaScript**  
+🚀 **Estudante de Engenharia de Software**  
 🇧🇷 Brazil
 
 ---
@@ -25,12 +25,12 @@
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![Pyton](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Pyton](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 
 ### DevOps & Tools

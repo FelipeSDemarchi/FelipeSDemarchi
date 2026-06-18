@@ -1,5 +1,7 @@
 # Olá 👋, Sou o Felipe Demarchi
 
+![Dan Abramov — Avatar](https://coolreadme.xyz/api/avatar-card?user=FelipeSDemarchi&status=WRITING+RFC&focus=React+Compiler+experiments&theme=profile)
+
 🚀 **Estudante de Engenharia de Software**  
 🇧🇷 Brazil
 
